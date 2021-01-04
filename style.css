@@ -5,6 +5,12 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: chocolate;
 }
@@ -16,7 +22,7 @@ h1{
 }
 .half-width img{
     padding: 10px;
-    width: 70%;   
+    width: 100%;   
 }
 .top-banner{
     border: 1px fuchsia;
@@ -33,4 +39,17 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experiance{
+        box-shadow: 10px 10px 40px grey ;
+        border-radius: 5px;
+        height: 80%;
+}
+.exp{
+    margin-inline: 5%;
 }
