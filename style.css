@@ -1,0 +1,18 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: chocolate;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
